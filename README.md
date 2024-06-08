@@ -10,7 +10,7 @@ The project is developed using Dart and Flutter, with Firebase handling the back
 
 <br />
 <br />
-<img src="https://imgur.com/ohA08nZ"/>
+<img src="https://i.imgur.com/ohA08nZ.jpeg"/>
 
 ## Technologies Used
 
@@ -46,7 +46,7 @@ The Admin App provides administrative controls for managing the entire system.
 
 For a detailed walkthrough and demonstration of the Nosh Now system, please watch the demo video below:
 
-[![Nosh Now Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Nosh Now Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1XRC3LbtCqcRHLCwNPWjWVKlO0gMhmZy0/view?usp=sharing)
 
 ## Contact
 
